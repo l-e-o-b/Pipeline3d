@@ -1,0 +1,17 @@
+C:\Users\lbouyat\source\repos\Pipeline3d\Pipeline3d\Application.cpp;C:\Users\lbouyat\source\repos\Pipeline3d\Pipeline3d\x64\Release\Application.obj
+C:\Users\lbouyat\source\repos\Pipeline3d\Pipeline3d\Buffer.cpp;C:\Users\lbouyat\source\repos\Pipeline3d\Pipeline3d\x64\Release\Buffer.obj
+C:\Users\lbouyat\source\repos\Pipeline3d\Pipeline3d\CommandManager.cpp;C:\Users\lbouyat\source\repos\Pipeline3d\Pipeline3d\x64\Release\CommandManager.obj
+C:\Users\lbouyat\source\repos\Pipeline3d\Pipeline3d\Debug.cpp;C:\Users\lbouyat\source\repos\Pipeline3d\Pipeline3d\x64\Release\Debug.obj
+C:\Users\lbouyat\source\repos\Pipeline3d\Pipeline3d\Dependancies.cpp;C:\Users\lbouyat\source\repos\Pipeline3d\Pipeline3d\x64\Release\Dependancies.obj
+C:\Users\lbouyat\source\repos\Pipeline3d\Pipeline3d\DescriptorManager.cpp;C:\Users\lbouyat\source\repos\Pipeline3d\Pipeline3d\x64\Release\DescriptorManager.obj
+C:\Users\lbouyat\source\repos\Pipeline3d\Pipeline3d\FrameBuffer.cpp;C:\Users\lbouyat\source\repos\Pipeline3d\Pipeline3d\x64\Release\FrameBuffer.obj
+C:\Users\lbouyat\source\repos\Pipeline3d\Pipeline3d\GraphicsPipeline.cpp;C:\Users\lbouyat\source\repos\Pipeline3d\Pipeline3d\x64\Release\GraphicsPipeline.obj
+C:\Users\lbouyat\source\repos\Pipeline3d\Pipeline3d\IndexBuffer.cpp;C:\Users\lbouyat\source\repos\Pipeline3d\Pipeline3d\x64\Release\IndexBuffer.obj
+C:\Users\lbouyat\source\repos\Pipeline3d\Pipeline3d\Main.cpp;C:\Users\lbouyat\source\repos\Pipeline3d\Pipeline3d\x64\Release\Main.obj
+C:\Users\lbouyat\source\repos\Pipeline3d\Pipeline3d\Renderer.cpp;C:\Users\lbouyat\source\repos\Pipeline3d\Pipeline3d\x64\Release\Renderer.obj
+C:\Users\lbouyat\source\repos\Pipeline3d\Pipeline3d\RenderPass.cpp;C:\Users\lbouyat\source\repos\Pipeline3d\Pipeline3d\x64\Release\RenderPass.obj
+C:\Users\lbouyat\source\repos\Pipeline3d\Pipeline3d\SwapChain.cpp;C:\Users\lbouyat\source\repos\Pipeline3d\Pipeline3d\x64\Release\SwapChain.obj
+C:\Users\lbouyat\source\repos\Pipeline3d\Pipeline3d\SyncObject.cpp;C:\Users\lbouyat\source\repos\Pipeline3d\Pipeline3d\x64\Release\SyncObject.obj
+C:\Users\lbouyat\source\repos\Pipeline3d\Pipeline3d\UniformBuffer.cpp;C:\Users\lbouyat\source\repos\Pipeline3d\Pipeline3d\x64\Release\UniformBuffer.obj
+C:\Users\lbouyat\source\repos\Pipeline3d\Pipeline3d\VertexBuffer.cpp;C:\Users\lbouyat\source\repos\Pipeline3d\Pipeline3d\x64\Release\VertexBuffer.obj
+C:\Users\lbouyat\source\repos\Pipeline3d\Pipeline3d\VulkanContext.cpp;C:\Users\lbouyat\source\repos\Pipeline3d\Pipeline3d\x64\Release\VulkanContext.obj

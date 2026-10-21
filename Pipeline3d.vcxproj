@@ -186,6 +186,7 @@ glfw3.lib
     <ClInclude Include="VulkanContext.h" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Readme.md" />
     <None Include="triangle.frag" />
     <None Include="triangle.vert" />
   </ItemGroup>

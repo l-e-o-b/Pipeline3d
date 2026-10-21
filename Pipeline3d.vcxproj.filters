@@ -120,5 +120,6 @@
   <ItemGroup>
     <None Include="triangle.vert" />
     <None Include="triangle.frag" />
+    <None Include="Readme.md" />
   </ItemGroup>
 </Project>
