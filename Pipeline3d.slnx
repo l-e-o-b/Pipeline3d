@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Pipeline3d/Pipeline3d.vcxproj" Id="c1f0caaa-9687-4527-ace9-277afd6fe6e4" />
+</Solution>

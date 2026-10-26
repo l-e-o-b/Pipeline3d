@@ -1,0 +1,49 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build Visual Studio
+[Bb]in/
+[Oo]bj/
+x64/
+x86/
+Debug/
+Release/
+
+# Visual Studio databases
+*.VC.db
+*.VC.opendb
+*.VC.VC.opendb
+*.opendb
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Compiled files
+*.exe
+*.dll
+*.pdb
+*.obj
+*.ilk
+*.idb
+*.lib
+
+# Shader compiled files
+*.spv
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Windows
+Thumbs.db
+Desktop.ini
